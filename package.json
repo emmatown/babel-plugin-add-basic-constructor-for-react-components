@@ -1,0 +1,8 @@
+{
+  "name": "babel-plugin-add-basic-constructor-for-react-components",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/mitchellhamilton/babel-plugin-add-basic-constructor-for-react-components",
+  "author": "mitchellhamilton <mitchell@hamil.town>",
+  "license": "MIT"
+}
