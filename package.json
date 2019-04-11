@@ -4,5 +4,17 @@
   "main": "index.js",
   "repository": "https://github.com/mitchellhamilton/babel-plugin-add-basic-constructor-for-react-components",
   "author": "mitchellhamilton <mitchell@hamil.town>",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "jest": "^24.7.1",
+    "jest-in-case": "^1.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
